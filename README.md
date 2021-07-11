@@ -1,3 +1,4 @@
+#Vuejs Image Searcher
 <h1>Vuejs Image Searcher</h1>
 <p>Built with Unsplash API and Vuejs, it enables users to search and save and remove images from local storage</p>
 <p>Website's link: https://vuejs-image-searcher.netlify.app/#/
